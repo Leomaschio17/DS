@@ -1,3 +1,4 @@
+sudo pip3 install scikit-learn
 ## import libraries
 import pandas as pd
 import numpy as np
