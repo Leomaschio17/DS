@@ -4,8 +4,7 @@ import numpy as np
 import os
 import math
 from math import sqrt
-import scikit-learn
-from scikit-learn import preprocessing
+from sklearn import preprocessing
 from datetime import date
 import calendar
 import datetime as dt
